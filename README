@@ -1,28 +1,66 @@
-# Ahmed Ashade – Cybersecurity Portfolio
+# Ahmed Ashade | Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio.
+Welcome to my cybersecurity portfolio!
 
-This repository documents my hands-on learning journey through the Google Cybersecurity Certificate, personal projects, and security labs.
+I am a Quality Assurance Engineer transitioning into Cybersecurity with a focus on Identity and Access Management (IAM) and Security Operations (SOC). This repository documents my hands-on learning journey through the Bachelor Degree in Cyber Operations and Google Cybersecurity Certificate, personal security projects, and practical labs.
 
-## Skills
+---
 
-- Security Operations
-- Incident Response
-- Linux
-- SQL
-- Python
-- Network Security
-- SIEM
-- Vulnerability Management
-- Risk Assessment
+## About Me
 
-## Certifications
+* B.S. Cyber Operations Candidate
+* Quality Assurance Engineer
+* Aspiring IAM Engineer and SOC Analyst
+* Experience with AWS, Linux, SQL, and Python
+* Maryland, USA
 
-- Google Cybersecurity Certificate (In Progress)
+---
 
-## Portfolio Sections
+## Technical Skills
 
-- Google Cybersecurity Certificate Labs
-- Security Write-Ups
-- Personal Projects
-- Certifications
+* Identity and Access Management (IAM)
+* Security Operations (SOC)
+* Linux
+* SQL
+* Python
+* Network Security
+* Splunk SIEM
+* Incident Response
+* Log Analysis
+* Risk Assessment
+* Documentation and Reporting
+
+---
+
+## Repository Structure
+
+📁 Google-Cybersecurity-Certificate
+📁 Labs
+📁 Projects
+📁 Write-Ups
+📁 Certifications
+
+---
+
+## Current Certifications
+
+* Google Cybersecurity Certificate (In Progress)
+* ISTQB Certified Tester
+* CompTIA Security+ (Planned)
+
+---
+
+## Career Focus
+
+* Identity and Access Management (IAM)
+* Security Operations Center (SOC)
+* Incident Response
+* Threat Detection and Monitoring
+* Vulnerability Management
+
+---
+
+## Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/ahmedashade](http://www.linkedin.com/in/ahmedashade)
+* GitHub: https://github.com/Ash-eagle13
