@@ -1,1 +1,61 @@
+Control Categories
+Administrative/Managerial Controls
+Policies and procedures addressing human behavior, data management, and employee responsibilities.
 
+Technical Controls
+Firewalls, IDS/IPS, antivirus, encryption, backups, password management, etc.
+
+Physical Controls
+Locks, surveillance cameras, badge readers, safes, fire detection systems.
+
+Control Types
+Preventative — stop incidents before they occur
+
+Corrective — restore assets after incidents
+
+Detective — identify incidents
+
+Deterrent — discourage attacks
+
+Administrative Controls Examples
+Least Privilege — Preventative
+
+Disaster Recovery Plans — Corrective
+
+Password Policies — Preventative
+
+Access Control Policies — Preventative
+
+Account Management Policies — Preventative
+
+Separation of Duties — Preventative
+
+Technical Controls Examples
+Firewall — Preventative
+
+IDS/IPS — Detective
+
+Encryption — Deterrent
+
+Backups — Corrective
+
+Password Management — Preventative
+
+Antivirus — Corrective
+
+Legacy System Monitoring — Preventative
+
+Physical Controls Examples
+Time‑controlled safe — Deterrent
+
+Adequate lighting — Deterrent
+
+CCTV — Preventative/Detective
+
+Locking cabinets — Preventative
+
+Alarm signage — Deterrent
+
+Locks — Preventative/Deterrent
+
+Fire detection/prevention — Detective/Preventative
