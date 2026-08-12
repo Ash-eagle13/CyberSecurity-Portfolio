@@ -1,1 +1,76 @@
+Controls and Compliance Checklist
+Controls Assessment Checklist
+Control	                                    Implemented
+Least Privilege	                             No
+Disaster Recovery Plans	                     No
+Password Policies	                           No
+Separation of Duties	                       No
+Firewall	Yes
+Intrusion Detection System (IDS)	           No
+Backups	                                      No
+Antivirus Software	                          Yes
+Legacy System Maintenance	                  Partial
+Encryption	                                No
+Password Management System	                No
+Locks	                                      Yes
+CCTV	                                      Yes
+Fire Detection/Prevention	                  Yes
 
+
+Compliance Checklist
+PCI DSS
+Best Practice	                              Implemented
+Authorized access to credit card data only	No
+Secure environment for card data	          No
+Encryption of card data	                    No
+Secure password management	                No
+
+
+GDPR
+Best Practice	                              Implemented
+EU customer data kept private	              Partial
+72‑hour breach notification plan	          Yes
+Data classification/inventory	              No
+Privacy policies enforced	                  Yes
+
+
+SOC 1 / SOC 2
+Best Practice	                              Implemented
+User access policies	                      No
+Sensitive data confidentiality	            No
+Data integrity	                            Yes
+Data availability	                          Yes
+
+
+Recommendations
+Access Control & Confidentiality
+Implement RBAC
+
+Encrypt sensitive data
+
+Add MFA
+
+Password & Identity Management
+Strengthen password policy
+
+Deploy centralized password management
+
+Monitoring & Detection
+Install IDS
+
+Implement SIEM
+
+Backup & Disaster Recovery
+Create DRP
+
+Implement regular encrypted backups
+
+System Maintenance
+Establish patch/update schedule
+
+Conduct vulnerability scans
+
+Compliance & Awareness
+Align with PCI DSS & GDPR
+
+Conduct quarterly security training
