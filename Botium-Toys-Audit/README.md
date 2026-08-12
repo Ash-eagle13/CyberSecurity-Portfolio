@@ -4,14 +4,14 @@ This folder contains a complete internal IT audit conducted for Botium Toys, foc
 The documents in this directory outline the audit scope, findings, control evaluations, and recommendations to strengthen the organization’s cybersecurity maturity.
 
 
-#Project Overview
+Project Overview
 
 Botium Toys is a retail organization that handles customer data, payment card information, and internal operational systems. The audit evaluates current security controls, identifies gaps, and provides actionable remediation steps to reduce risk and improve compliance.
 
 
-#Included Documents
+Included Documents
 
-#1. Audit-Scope-and-Goals.docx 
+1. Audit-Scope-and-Goals.docx 
 Defines the audit’s purpose, scope, and objectives.  
 Includes:  
 - Assessment areas  
@@ -19,20 +19,20 @@ Includes:
 - Risk scoring  
 - High‑level findings and recommendations
 
-#2. Botium-Toys-Scope-goals-and-risk-assessment-report.docx
+2. Botium-Toys-Scope-goals-and-risk-assessment-report.docx
 A detailed risk assessment covering:  
 - Current assets  
 - Control gaps  
 - Compliance risks  
 - Physical, administrative, and technical security issues
 
-#3. Control-categories.docx 
+3. Control-categories.docx 
 Breaks down cybersecurity controls into:  
 - Administrative  
 - Technical  
 - Physical  
 
-#4. Controls-and-compliance-checklist.docx
+4. Controls-and-compliance-checklist.docx
 A full checklist evaluating whether Botium Toys meets required controls and compliance standards.  
 Includes:  
 - PCI DSS  
@@ -41,7 +41,7 @@ Includes:
 - Control implementation status  
 - Final recommendations
 
-#Key Findings (Summary)
+Key Findings (Summary)
 
 - Sensitive data is accessible to all employees  
 - No encryption for credit card data  
@@ -51,7 +51,7 @@ Includes:
 - Physical security is strong (locks, CCTV, fire systems)
 
 
-#Recommendations (High Priority)
+Recommendations (High Priority)
 
 - Implement RBAC and least privilege  
 - Encrypt all sensitive data  
