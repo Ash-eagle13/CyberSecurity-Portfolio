@@ -1,1 +1,38 @@
+Summary
+The internal audit aligns current business practices with industry standards and best practices. It provides mitigation recommendations for high‑risk vulnerabilities and outlines a strategy to improve the organization’s security posture. The audit team documents findings, provides remediation plans, and communicates with stakeholders.
 
+Scope
+The internal IT audit will assess:
+
+User permissions
+
+Existing controls, procedures, and system protocols
+
+Technology currently in use
+
+Goals
+Adhere to the NIST Cybersecurity Framework (CSF)
+
+Establish policies and procedures for regulatory compliance
+
+Fortify system controls
+
+Risk Assessment
+Current Assets
+Managed by the IT Department:
+
+Employee equipment (desktops/laptops, smartphones, remote workstations, peripherals, surveillance cameras)
+
+Internal network storing customer, vendor, and organizational data
+
+Risk Description
+There is inadequate asset management and a lack of proper controls. The organization may not be compliant with U.S. and international regulations.
+
+Control Best Practices
+The organization must dedicate resources to asset management and determine the impact of asset loss on business continuity.
+
+Risk Score
+8/10 (High) — due to lack of controls and compliance adherence.
+
+Additional Comments
+The likelihood of lost assets or regulatory fines is high because required controls and privacy standards for PII are not fully implemented.
