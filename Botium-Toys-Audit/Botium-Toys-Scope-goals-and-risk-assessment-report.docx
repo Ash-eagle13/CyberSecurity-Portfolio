@@ -1,1 +1,58 @@
+Botium Toys: Scope, Goals, and Risk Assessment Report
+Scope
+The audit covers the entire security program, including all assets, internal processes, and compliance practices.
 
+Goals
+Assess existing assets and complete the controls/compliance checklist to determine which improvements are needed.
+
+Current Assets
+On‑premises equipment
+
+Employee devices
+
+Storefront products and warehouse inventory
+
+Systems/software: accounting, telecom, database, security, ecommerce, inventory
+
+Internet access
+
+Internal network
+
+Data retention/storage
+
+Legacy systems requiring manual monitoring
+
+Risk Assessment
+Risk Description
+Botium Toys lacks proper controls and may not be fully compliant with U.S. and international standards.
+
+Control Best Practices
+Following the NIST CSF Identify function, Botium Toys must classify and manage assets and determine business continuity impact.
+
+Risk Score
+8/10 (High) — due to missing controls and compliance gaps.
+
+Additional Comments
+Key issues include:
+
+All employees can access sensitive data (cardholder, PII/SPII).
+
+No encryption for credit card data.
+
+No least privilege or separation of duties.
+
+Firewall and antivirus exist.
+
+No IDS.
+
+No disaster recovery plan or backups.
+
+EU breach notification plan exists.
+
+Weak password policy.
+
+No centralized password management.
+
+Legacy systems lack scheduled maintenance.
+
+Physical security is sufficient (locks, CCTV, fire systems).
