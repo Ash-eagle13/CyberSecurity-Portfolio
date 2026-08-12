@@ -1,4 +1,4 @@
-Botium Toys – Internal Security Audit**
+Botium Toys – Internal Security Audit
 
 This folder contains a complete internal IT audit conducted for Botium Toys, focusing on security posture, risk assessment, and compliance alignment with industry standards such as NIST CSF, PCI DSS, and GDPR.  
 The documents in this directory outline the audit scope, findings, control evaluations, and recommendations to strengthen the organization’s cybersecurity maturity.
